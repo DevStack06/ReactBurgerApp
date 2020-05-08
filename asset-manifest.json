@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactBurgerApp/static/css/main.1e54ac12.chunk.css",
+    "main.js": "/ReactBurgerApp/static/js/main.1a80c33e.chunk.js",
+    "main.js.map": "/ReactBurgerApp/static/js/main.1a80c33e.chunk.js.map",
+    "runtime-main.js": "/ReactBurgerApp/static/js/runtime-main.6b727ca5.js",
+    "runtime-main.js.map": "/ReactBurgerApp/static/js/runtime-main.6b727ca5.js.map",
+    "static/js/2.d1ecb0bf.chunk.js": "/ReactBurgerApp/static/js/2.d1ecb0bf.chunk.js",
+    "static/js/2.d1ecb0bf.chunk.js.map": "/ReactBurgerApp/static/js/2.d1ecb0bf.chunk.js.map",
+    "index.html": "/ReactBurgerApp/index.html",
+    "precache-manifest.288f2de38d7fef947bbedc56874b0e4f.js": "/ReactBurgerApp/precache-manifest.288f2de38d7fef947bbedc56874b0e4f.js",
+    "service-worker.js": "/ReactBurgerApp/service-worker.js",
+    "static/css/main.1e54ac12.chunk.css.map": "/ReactBurgerApp/static/css/main.1e54ac12.chunk.css.map",
+    "static/js/2.d1ecb0bf.chunk.js.LICENSE.txt": "/ReactBurgerApp/static/js/2.d1ecb0bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b727ca5.js",
+    "static/js/2.d1ecb0bf.chunk.js",
+    "static/css/main.1e54ac12.chunk.css",
+    "static/js/main.1a80c33e.chunk.js"
+  ]
+}
